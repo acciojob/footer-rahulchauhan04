@@ -1,1 +1,20 @@
-/* your code here */
+
+.logo-details{
+	display:flex;
+	
+}
+/* .content{
+	display:flex;
+	justify-content:space-between;
+	flex-wrap:wrap;
+} */
+.media-icons{
+	display:flex;
+	justify-content:end;
+	align-items:end;
+	margin-right:10px;
+}
+.box{
+	display:flex;
+	
+}
